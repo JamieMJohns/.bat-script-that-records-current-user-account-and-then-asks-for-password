@@ -23,7 +23,8 @@ To view the .bat file code; open the file in notepad (or alternatively rename .b
    
 Files in this respository;  
 record_user_name_and_ask_password.bat - the main (.bat) file of interest [includes added comments for understanding each line of the script]  
-  
+record_user_name_and_ask_password[without comments].bat - Same functionality as previous .bat file but with most of comments removed from .bat script (the user inferace is kept [seen when running script]).  
+    
 Although it is expected that this .bat script work on various OS (at least for windows), with no errors,   
 it has so far only been tested in windows7 and windows10 (64-bit). I am unsure if the .bat script will crash  
 (not work) on other OS, as I have not done further research/reading into possible changes between OS in regard to used .bat script.   
