@@ -2,7 +2,7 @@
 .bat script that records current user account name (plus domain/system name) and    
 then asks for entering of account password to run a file with administrative privileges [if entered password is correct].  
 
-PROGRAM DESCRIPTION #################################
+PROGRAM DESCRIPTION #################################  
 this is a test bat file which automatically records
 user account of which this program is run in and
 then applies recorded user name to ask for password.
